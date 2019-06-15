@@ -30,7 +30,8 @@ education:
   - course: MEng in Control Theroy and Engineering
     institution: Shandong University
     year: 2015
-  - course: BSc in Automation
+  - course: BEng in Automation
+    institution: Shandong University
     year: 2012
 
 # Social/Academic Networking
@@ -66,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Student in the ECE department at the University of Virginia. Before joining Dependable Systems and Analytics Lab in January 2019, I was a Seinor Engineerer at NR Research Institute, State Grid of China.
+I am a Ph.D. Student in the ECE department at the University of Virginia. Before joining Dependable Systems and Analytics Lab at UVa in January 2019, I was a Seinor Engineerer at NR Research Institute, State Grid of China.
 
-My research interest are at the intersection of computer systems dependability， and control theory& engineering. I am particularly interested in engeering a safer autonomous system through resilience assessment and security validation.
+My research interest are at the intersection of computer systems dependability and control theory& engineering. I am particularly interested in engeering a safer autonomous system through resilience assessment and security validation.
 
