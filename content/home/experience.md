@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Engineer"
-  company = "NR Research Institude"
+  company = "NR Research Institute"
   company_url = ""
   location = "State Grid of China"
   date_start = "2015-07-01"
