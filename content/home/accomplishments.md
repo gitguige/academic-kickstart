@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   date_start = "2019"
   date_end = ""
   description = ""
-  
+   
 [[item]]
-  organization = ""
+  organization = "Ministry of Education"
   organization_url = ""
   title = "National Outstanding Scholarship Awards"
   url = ""
