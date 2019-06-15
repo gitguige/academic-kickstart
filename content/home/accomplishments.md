@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 75  # Order that this section will appear.
 
 title = "Awards"
 subtitle = ""
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Ministry of Education"
-  organization_url = ""
+  organization_url = "http://en.moe.gov.cn/"
   title = "National Outstanding Scholarship Awards"
   url = ""
   certificate_url = ""
