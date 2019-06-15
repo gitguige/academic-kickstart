@@ -2,7 +2,7 @@
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "publications"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
@@ -66,6 +66,13 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+[1] Xugui Zhou, The Development of Intelligent Household Ventilator Based on Remote Digital Transmission
+Technology, Shandong University, 2015
+[2] Xugui Zhou, Feng Cha, The Design and Application of CAN/RS232 Conversion Board Based on STM32F103 Chip,
+Industrial Control Computer, 2014(5):49-50
+[3] Xugui Zhou, Shengxin Zhang, Yanjie Li, Feng Cha, Development and Application of TCP/IP Communication Test
+Tool, Industrial Control Computer, 2014, 27 (2) :34-35
+[4] Xugui Zhou, Shengxin Zhang, Yanjie Li, Feng Cha, Development and Application of TCP/IP Protocol Stack in DCS
+Master Station , Smart Factory, 2014, (1) :71-74
+●  An Intelligent Household System (Patent No.: ZL 2013 2 0043015.7)
+●  A Method to Receive Indefinite Length Serial Packets by DMA (Patent No.: ZL 2018 1 0119917.1)
