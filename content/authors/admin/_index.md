@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Xugui Zhou
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Assistant& Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Virginia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
