@@ -43,18 +43,18 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:xz6cz@virginia.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/guige46397541?lang=en
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5RJ9tUNsnrAzNCEEu4C0eTCqsBLQD_3cSI_nzeMcT5bLv-7wA-GUooPJt1KiwnOaOFYY4mzfx1QEjASQjopJquht6mSg&user=AbTwiasAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gitguige
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,6 +66,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Student 
+I am a Ph.D. Student in the ECE department at the University of Virginia. Before joining Dependable Systems and Analytics Lab in January 2019, I was a Seinor Engineerer at NR Research Institute, State Grid of China.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interest are at the intersection of computer systems dependability， and control theory& engineering. I am particularly interested in engeering a safer autonomous system through resilience assessment and security validation.
+
