@@ -69,5 +69,5 @@ user_groups:
 
 I am a Ph.D. Student in the ECE department at the University of Virginia. Before joining Dependable Systems and Analytics Lab at UVa in January 2019, I was an Engineer at NR Research Institute, State Grid of China.
 
-My research interests are at the intersection of computer systems dependability and control theory& engineering. I am particularly interested in engineering a safer autonomous system through resilience assessment, security validation and artificial intelligent technique.
+My research interests are at the intersection of computer systems dependability and control system theory& engineering. I am particularly interested in engineering safer autonomous systems through resilience assessment, security validation and artificial intelligent techniques.
 
