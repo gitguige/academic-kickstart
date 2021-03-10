@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant& Ph.D. Student in Electrical Engineering
+role: Research Assistant& Ph.D. Candidate in Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Student in the ECE department at the University of Virginia. Before joining Dependable Systems and Analytics Lab at UVa in January 2019, I was an Engineer at NR Research Institute, State Grid of China.
+I am a Ph.D. Candidate in the ECE department at the University of Virginia. Before joining Dependable Systems and Analytics Lab at UVa in January 2019, I was an Engineer at NR Research Institute, State Grid of China.
 
 My research interests are at the intersection of computer systems dependability and control system theory& engineering. I am particularly interested in engineering safer autonomous systems through resilience assessment, security validation and artificial intelligent techniques.
 
