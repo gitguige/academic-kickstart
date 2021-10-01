@@ -29,9 +29,19 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
+  organization = "Shandong University"
+  organization_url = "https://www.sdu.edu.cn/"
+  title = "Best Thesis Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2015"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Ministry of Education"
   organization_url = "http://en.moe.gov.cn/"
-  title = "National Outstanding Scholarship Awards"
+  title = "National Outstanding Fellowship Award"
   url = ""
   certificate_url = ""
   date_start = "2014-03-01"
