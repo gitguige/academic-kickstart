@@ -29,6 +29,11 @@
   weight = 50
 
 [[main]]
+  name = "Patents"
+  url = "#patents"
+  weight = 55
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
