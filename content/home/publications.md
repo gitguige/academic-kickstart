@@ -70,9 +70,9 @@ subtitle = ""
 
 <!-- ● **Xugui Zhou**, Bulbul Ahmed, James H. Aylor, Philip Asare, Homa Alemzadeh, Data-driven design of context-aware monitors for hazard prediction in artificial pancreas systems, in 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2021. [Acceptance rate: 16.3%] -->
 
-● Honghai Niu, Feng Zang, **Xugui Zhou**, DMA-based Design and Implementation of High Speed UART Communication, Process Automation Instrumentation, 2018
+<!-- ● Honghai Niu, Feng Zang, **Xugui Zhou**, DMA-based Design and Implementation of High Speed UART Communication, Process Automation Instrumentation, 2018 -->
 
-● **Xugui Zhou**, Feng Cha, The Design and Application of CAN/RS232 Conversion Board Based on STM32F103 Chip, Industrial Control Computer, 2014
+<!-- ● **Xugui Zhou**, Feng Cha, The Design and Application of CAN/RS232 Conversion Board Based on STM32F103 Chip, Industrial Control Computer, 2014
 
 ● **Xugui Zhou**, Shengxin Zhang, Yanjie Li, Feng Cha, Development and Application of TCP/IP Communication Test Tool, Industrial Control Computer, 2014
 
@@ -82,7 +82,7 @@ subtitle = ""
 
 ● Yanjie Li, Zhengjun Li, Shengxin Zhang, **Xugui Zhou**, 71M6543G based Design of Three-phase Smart Instrument, Industrial Control Computer, 2014
 
-● Shengxin Zhang, Yanjie Li, **Xugui Zhou**, MODBUS-based Design of Intelligent Power Instrument for Fire Monitoring in Industry, Industrial Control Computer, 2014
+● Shengxin Zhang, Yanjie Li, **Xugui Zhou**, MODBUS-based Design of Intelligent Power Instrument for Fire Monitoring in Industry, Industrial Control Computer, 2014 -->
 
 <!-- [1] Xugui Zhou, The Development of Intelligent Household Ventilator Based on Remote Digital Transmission
 Technology, Shandong University, 2015
