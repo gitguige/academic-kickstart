@@ -1,11 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Targeted vaccination strategies for an infinite-dimensional SIS model"
+title: "Data-driven Design of Context-aware Monitors for Hazard Prediction in Artificial Pancreas Systems"
 authors: 
-- Jean-François Delmas
-- Dylan Dronnier
-- Pierre-André Zitt
+- Xugui Zhou
+- Bulbul Ahmed
+- James H. Aylor
+- Philip Asare
+- Homa Alemzadeh
+
 date: 2021-03-17T00:00:00+02:00
 
 # Schedule page publish date (NOT publication's date).
@@ -15,32 +18,17 @@ publishDate: 2021-03-17T17:07:06+02:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Arxiv"
-publication_short: ""
+publication: "51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks"
+publication_short: "DSN"
 
-abstract: "We formalize and study the problem of optimal allocation strategies for a
-(perfect) vaccine in the infinite-dimensional SIS model.
-
-
-The question may be viewed as a bi-objective minimization problem, where one tries to
-minimize simultaneously the cost of the vaccination, and a loss that may be either the
-effective reproduction number, or the proportion of the infected population in the
-endemic state.
-
-
-We prove the existence of Pareto optimal strategies, describe the corresponding Pareto
-frontier in both cases, and study its convexity and stability properties. We also show
-that  vaccinating according to the profile of the endemic state is a critical allocation,
-in the sense that, if the initial reproduction number is larger than 1, then  this
-vaccination strategy yields an effective reproduction number equal to 1."
+abstract: "Medical Cyber-physical Systems (MCPS) are vulnerable to accidental or malicious faults that can target their controllers and cause safety hazards and harm to patients. This paper proposes a combined model and data-driven approach for designing context-aware monitors that can detect early signs of hazards and mitigate them in MCPS. We present a framework for formal specification of unsafe system context using Signal Temporal Logic (STL) combined with an optimization method for patient-specific refinement of STL formulas based on real or simulated faulty data from the closed-loop system for the generation of monitor logic. We evaluate our approach in simulation using two state-of-the-art closed-loop Artificial Pancreas Systems (APS). The results show the context-aware monitor achieves up to 1.4 times increase in average hazard prediction accuracy (F1score) over several baseline monitors, reduces false-positive and false-negative rates, and enables hazard mitigation with a 54% success rate while decreasing the average risk for patients."
 
 
 # Summary. An optional shortened abstract.
-summary: "We formalize and study the problem of optimal allocation strategies for a
-(perfect) vaccine in the infinite-dimensional SIS model."
+# summary: "We formalize and study the problem of optimal allocation strategies for a (perfect) vaccine in the infinite-dimensional SIS model."
 
 
 tags: []
@@ -55,7 +43,7 @@ categories: []
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2103.10330.pdf
+url_pdf: https://ieeexplore.ieee.org/document/9505057?denied=
 url_code:
 url_dataset:
 url_poster:
