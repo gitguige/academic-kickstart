@@ -44,13 +44,14 @@ categories: []
 #   icon: twitter
 
 url_pdf: https://ieeexplore.ieee.org/document/9505057?denied=
-url_code:
+url_code: https://github.com/UVA-DSA/ContextSafetyMonitorAPS
+url_arxiv: https://arxiv.org/abs/2104.02545
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: https://www.youtube.com/watch?v=8805T04rPaw
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
