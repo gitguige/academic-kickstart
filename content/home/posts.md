@@ -66,4 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
+* Oct 1, 2021. I received the ***Uva Link Lab Student Flash Talk Award***.
+
 * June 24, 2021. I presented our paper "[Data-driven design of context-aware monitors for hazard prediction in artificial pancreas systems](https://ieeexplore.ieee.org/document/9505057?denied=)" in 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2021). [video](https://www.youtube.com/watch?v=8805T04rPaw)
