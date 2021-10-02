@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "Best Thesis Award"
   url = ""
   certificate_url = ""
-  date_start = "2015"
+  date_start = "2015-06-15"
   date_end = ""
   description = ""
 
