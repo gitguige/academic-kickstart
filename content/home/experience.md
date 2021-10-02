@@ -28,6 +28,8 @@ date_format = "Jan 2006"
   Current Project:
   
   * Strategic Fault Injection for Safety Validation in CPS
+  * Context-aware Safety Monitoring for Hazard Prediction and Mitigation in CPS
+  
   """
 
 [[experience]]
