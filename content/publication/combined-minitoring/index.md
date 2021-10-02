@@ -33,7 +33,7 @@ abstract: "Rapid advances in sensing and computing technology have led to the pr
 
 tags: []
 categories: []
-#featured: false
+featured: True
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
