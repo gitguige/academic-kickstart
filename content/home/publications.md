@@ -66,9 +66,9 @@ subtitle = ""
  css_class = ""
 +++
 
-● **Xugui Zhou**, Bulbul Ahmed, James H. Aylor, Philip Asare, Homa Alemzadeh, Knowledge and Data Driven Synthesis of Runtime Monitors for Cyber-Physical Systems, submitted to IEEE Transactions on Dependable and Secure Computing (TDSC). [Online Available](https://virginia.app.box.com/file/866889439073?s=ohurouomk5rv9i1f3glr67ph6s5j8vdk)
+<!-- ● **Xugui Zhou**, Bulbul Ahmed, James H. Aylor, Philip Asare, Homa Alemzadeh, Knowledge and Data Driven Synthesis of Runtime Monitors for Cyber-Physical Systems, submitted to IEEE Transactions on Dependable and Secure Computing (TDSC). [Online Available](https://virginia.app.box.com/file/866889439073?s=ohurouomk5rv9i1f3glr67ph6s5j8vdk) -->
 
-● **Xugui Zhou**, Bulbul Ahmed, James H. Aylor, Philip Asare, Homa Alemzadeh, Data-driven design of context-aware monitors for hazard prediction in artificial pancreas systems, in 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2021. [Acceptance rate: 16.3%]
+<!-- ● **Xugui Zhou**, Bulbul Ahmed, James H. Aylor, Philip Asare, Homa Alemzadeh, Data-driven design of context-aware monitors for hazard prediction in artificial pancreas systems, in 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2021. [Acceptance rate: 16.3%] -->
 
 ● Honghai Niu, Feng Zang, **Xugui Zhou**, DMA-based Design and Implementation of High Speed UART Communication, Process Automation Instrumentation, 2018
 

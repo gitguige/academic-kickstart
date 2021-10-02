@@ -18,17 +18,17 @@ publishDate: 2021-03-17T17:07:06+02:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2021)"
-publication_short: "DSN"
+publication: "submitted to IEEE Transactions on Dependable and Secure Computing (TDSC)"
+publication_short: "TDSC"
 
-abstract: "Medical Cyber-physical Systems (MCPS) are vulnerable to accidental or malicious faults that can target their controllers and cause safety hazards and harm to patients. This paper proposes a combined model and data-driven approach for designing context-aware monitors that can detect early signs of hazards and mitigate them in MCPS. We present a framework for formal specification of unsafe system context using Signal Temporal Logic (STL) combined with an optimization method for patient-specific refinement of STL formulas based on real or simulated faulty data from the closed-loop system for the generation of monitor logic. We evaluate our approach in simulation using two state-of-the-art closed-loop Artificial Pancreas Systems (APS). The results show the context-aware monitor achieves up to 1.4 times increase in average hazard prediction accuracy (F1score) over several baseline monitors, reduces false-positive and false-negative rates, and enables hazard mitigation with a 54% success rate while decreasing the average risk for patients."
+abstract: "Rapid advances in sensing and computing technology have led to the proliferation of Cyber-Physical Systems (CPS) in personalized and clinical settings. However, the increasing device complexity, shrinking technology sizes, and shorter time to market have resulted in significant challenges in ensuring the reliability, safety, and security of CPS. This paper presents a combined model and data-driven approach for designing context-aware safety monitors that can detect early signs of hazards and mitigate them in CPS. We present a framework for formal specification of unsafe system context using Signal Temporal Logic (STL) combined with an optimization method for scenario-specific refinement of STL formulas based on actual or simulation data from closed-loop CPS that enables run-time identification of unsafe control actions and prediction of hazards by the monitor. We demonstrate the effectiveness of our approach in simulation using an autonomous driving system (ADS) and two closed-loop artificial pancreas systems (APS). The results show a safety monitor developed with this approach demonstrates up to 36.6% and  4.7 times increase in average prediction accuracy (F1 score) over several ML-based and non-ML-based baseline monitors, respectively, while reducing both false-positive rate and false-negative rate for most of them."
 
 
 # Summary. An optional shortened abstract.
-summary: "We present a framework for formal specification of unsafe system context using Signal Temporal Logic (STL) combined with an optimization method."
+# summary: "We formalize and study the problem of optimal allocation strategies for a (perfect) vaccine in the infinite-dimensional SIS model."
 
 
 tags: []
@@ -43,8 +43,7 @@ categories: []
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://ieeexplore.ieee.org/document/9505057?denied=
-url_code:
+url_pdf: https://virginia.app.box.com/file/866889439073?s=ohurouomk5rv9i1f3glr67ph6s5j8vdk
 url_dataset:
 url_poster:
 url_project:
