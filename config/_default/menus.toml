@@ -24,14 +24,16 @@
   weight = 40
 
 [[main]]
+  name = "Patents"
+  url = "#patents"
+  weight = 45
+  
+[[main]]
   name = "Awards"
   url = "#accomplishments"
   weight = 50
 
-[[main]]
-  name = "Patents"
-  url = "#patents"
-  weight = 45
+
 
 [[main]]
   name = "Contact"
