@@ -66,4 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Post test
+● June 24, 2021. I presented our paper "Data-driven design of context-aware monitors for hazard prediction in artificial pancreas systems" in 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2021)
