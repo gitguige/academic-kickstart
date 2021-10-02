@@ -96,8 +96,3 @@ Tool, Industrial Control Computer, 2014, 27 (2) :34-35
 [4] Xugui Zhou, Shengxin Zhang, Yanjie Li, Feng Cha, Development and Application of TCP/IP Protocol Stack in DCS
 Master Station , Smart Factory, 2014, (1) :71-74 -->
 
-●  An Intelligent Household System (Patent No.: ZL 2013 2 0043015.7)
-
-●  A Method to Receive Indefinite Length Serial Packets by DMA (Patent No.: ZL 2018 1 0119917.1)
-
-●  A debugging method，device and removable storage medium for a variety of CPU plug-ins (Patent No.: ZL 2018 1 1341241.1)
