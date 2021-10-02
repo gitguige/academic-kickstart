@@ -44,7 +44,7 @@ social:
   link:  "mailto:xz6cz@virginia.edu"  #'#contact'  # For a direct email link, use "mailto:xz6cz@virginia.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/guige46397541?lang=en
+  link: https://twitter.com/ZhouXugui
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5RJ9tUNsnrAzNCEEu4C0eTCqsBLQD_3cSI_nzeMcT5bLv-7wA-GUooPJt1KiwnOaOFYY4mzfx1QEjASQjopJquht6mSg&user=AbTwiasAAAAJ
@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. Candidate in the ECE department at the University of Virginia. Before joining Dependable Systems and Analytics Lab at UVa in January 2019, I was an Engineer at NR Research Institute, State Grid of China.
+I am a Ph.D. Candidate in the ECE department at the University of Virginia. Before joining Dependable Systems and Analytics Lab at UVa in January 2019, I was an Project Manager and Engineer at NR Research Institute, State Grid of China.
 
 My research interests are at the intersection of computer systems dependability and control system theory& engineering. I am particularly interested in engineering safer autonomous systems through resilience assessment, security validation and artificial intelligent techniques.
 

@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Project Manager and Engineer"
+  title = "Project Manager & Engineer"
   company = "NR Research Institute"
   company_url = ""
   location = "State Grid of China"
