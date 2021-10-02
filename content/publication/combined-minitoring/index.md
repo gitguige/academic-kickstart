@@ -22,7 +22,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "submitted to IEEE Transactions on Dependable and Secure Computing (TDSC)"
-publication_short: "TDSC"
+publication_short: "submitted to IEEE Transactions on Dependable and Secure Computing (TDSC)"
 
 abstract: "Rapid advances in sensing and computing technology have led to the proliferation of Cyber-Physical Systems (CPS) in personalized and clinical settings. However, the increasing device complexity, shrinking technology sizes, and shorter time to market have resulted in significant challenges in ensuring the reliability, safety, and security of CPS. This paper presents a combined model and data-driven approach for designing context-aware safety monitors that can detect early signs of hazards and mitigate them in CPS. We present a framework for formal specification of unsafe system context using Signal Temporal Logic (STL) combined with an optimization method for scenario-specific refinement of STL formulas based on actual or simulation data from closed-loop CPS that enables run-time identification of unsafe control actions and prediction of hazards by the monitor. We demonstrate the effectiveness of our approach in simulation using an autonomous driving system (ADS) and two closed-loop artificial pancreas systems (APS). The results show a safety monitor developed with this approach demonstrates up to 36.6% and  4.7 times increase in average prediction accuracy (F1 score) over several ML-based and non-ML-based baseline monitors, respectively, while reducing both false-positive rate and false-negative rate for most of them."
 
