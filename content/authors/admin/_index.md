@@ -24,6 +24,7 @@ interests:
 - Control System
 - Artificial Intelligence
 - System Security
+- Formal Method
 
 education:
   courses:

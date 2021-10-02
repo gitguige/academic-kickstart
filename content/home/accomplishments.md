@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Ministry of Education"
+  organization = "Ministry of Education of China"
   organization_url = "http://en.moe.gov.cn/"
   title = "National Outstanding Fellowship Award"
   url = ""
