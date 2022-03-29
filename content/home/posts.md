@@ -66,8 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
-* Mar 2022. I was selected to give a poster presentation at the *** 18th Annual University of Virginia Engineering Research Symposium (UVERS 2022) ***.
+* Mar 2022. I was selected to give a poster presentation at the ***18th Annual University of Virginia Engineering Research Symposium (UVERS 2022)***.
 
-* Oct 2021. I received the *** Uva Link Lab Student Flash Talk Award ***.
+* Oct 2021. I received the ***Uva Link Lab Student Flash Talk Award***.
 
 * June 2021. I presented our paper "[Data-driven design of context-aware monitors for hazard prediction in artificial pancreas systems](https://ieeexplore.ieee.org/document/9505057?denied=)" in 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2021). [video](https://www.youtube.com/watch?v=8805T04rPaw)
