@@ -65,6 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+* Apr 2022. I was invited to give a speed briefing and poster presentation at *the Inaugural Commonwealth Cyber Initiative Symposium (CCI 2022)*.
 
 * Mar 2022. I was selected to give a poster presentation at *the 18th Annual University of Virginia Engineering Research Symposium (UVERS 2022)*.
 
