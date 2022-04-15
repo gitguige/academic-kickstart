@@ -26,7 +26,7 @@ publication_types: ["1"]
 publication: "52st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2022)"
 publication_short: "52st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2022)"
 
-abstract: "A growing number of vehicles are being transformed into semi-autonomous vehicles (Level 2 autonomy) by relying on advanced driver assistance systems (ADAS) to improve the driving experience. However, the increasing complexity and connectivity of ADAS expose the vehicles to safety-critical faults and attacks. This paper investigates the resilience of a widely-used ADAS against safety-critical attacks that target the control system at opportune times during different driving scenarios and cause accidents. Experimental results show that our proposed Context-Aware attacks can achieve a 96.3% success rate in causing hazards, 90.0% of which occur without any warnings. These results highlight the intolerance of ADAS to safety-critical attacks and the importance of timely interventions by human drivers or automated recovery mechanisms to prevent accidents."
+abstract: "A growing number of vehicles are being transformed into semi-autonomous vehicles (Level 2 autonomy) by relying on advanced driver assistance systems (ADAS) to improve the driving experience. However, the increasing complexity and connectivity of ADAS expose the vehicles to safety-critical faults and attacks. This paper investigates the resilience of a widely-used ADAS against safety-critical attacks that target the control system at opportune times during different driving scenarios and cause accidents. Experimental results show that our proposed Context-Aware attacks can achieve an 83.4% success rate in causing hazards, 99.7% of which occur without any warnings. These results highlight the intolerance of ADAS to safety-critical attacks and the importance of timely interventions by human drivers or automated recovery mechanisms to prevent accidents."
 
 
 # Summary. An optional shortened abstract.
@@ -45,8 +45,8 @@ categories: []
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: #https://virginia.app.box.com/file/866889439073?s=ohurouomk5rv9i1f3glr67ph6s5j8vdk
-url_dataset:
+url_pdf: https://arxiv.org/abs/2204.06768
+url_code: https://github.com/UVA-DSA/openpilot-CARLA
 url_poster:
 url_project:
 url_slides:
