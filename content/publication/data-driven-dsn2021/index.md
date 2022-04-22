@@ -21,8 +21,8 @@ publishDate: 2021-03-17T17:07:06+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2021)"
-publication_short: "51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2021)"
+publication: "in the 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)"
+publication_short: "in the 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)"
 
 abstract: "Medical Cyber-physical Systems (MCPS) are vulnerable to accidental or malicious faults that can target their controllers and cause safety hazards and harm to patients. This paper proposes a combined model and data-driven approach for designing context-aware monitors that can detect early signs of hazards and mitigate them in MCPS. We present a framework for formal specification of unsafe system context using Signal Temporal Logic (STL) combined with an optimization method for patient-specific refinement of STL formulas based on real or simulated faulty data from the closed-loop system for the generation of monitor logic. We evaluate our approach in simulation using two state-of-the-art closed-loop Artificial Pancreas Systems (APS). The results show the context-aware monitor achieves up to 1.4 times increase in average hazard prediction accuracy (F1score) over several baseline monitors, reduces false-positive and false-negative rates, and enables hazard mitigation with a 54% success rate while decreasing the average risk for patients."
 

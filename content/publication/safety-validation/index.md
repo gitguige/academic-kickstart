@@ -23,8 +23,8 @@ publishDate: 2022-03-14T17:07:06+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "52st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2022)"
-publication_short: "52st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2022)"
+publication: "to be appear in the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)"
+publication_short: "to be appear in the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)"
 
 abstract: "A growing number of vehicles are being transformed into semi-autonomous vehicles (Level 2 autonomy) by relying on advanced driver assistance systems (ADAS) to improve the driving experience. However, the increasing complexity and connectivity of ADAS expose the vehicles to safety-critical faults and attacks. This paper investigates the resilience of a widely-used ADAS against safety-critical attacks that target the control system at opportune times during different driving scenarios and cause accidents. Experimental results show that our proposed Context-Aware attacks can achieve an 83.4% success rate in causing hazards, 99.7% of which occur without any warnings. These results highlight the intolerance of ADAS to safety-critical attacks and the importance of timely interventions by human drivers or automated recovery mechanisms to prevent accidents."
 
