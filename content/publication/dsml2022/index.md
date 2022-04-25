@@ -41,7 +41,7 @@ categories: []
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://arxiv.org/abs/2204.09183
 url_code: 
 url_arxiv: 
 url_dataset:
