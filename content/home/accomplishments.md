@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "NSF Travel Award"
   url = ""
   certificate_url = ""
-  date_start = "2019, 2022
+  date_start = "2022-06-15"
   date_end = ""
   description = ""
 
