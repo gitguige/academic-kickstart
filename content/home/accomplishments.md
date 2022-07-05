@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "DSN'19 DSN'22"
+  organization = "DSN2019 DSN2022"
   organization_url = "http://2022.dsn.org/"
   title = "NSF Travel Award"
   url = ""
