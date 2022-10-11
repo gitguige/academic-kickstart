@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-06-15"
   date_end = ""
-  description = ""
+  description = "Key technique used in China's first homemade DCS."
 
 [[item]]
   organization = "China National Intellectual Property Administration (CNIPA)"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
-  description = ""
+  description = "Used in products sold to 14 countries worldwide."
   
 
 
