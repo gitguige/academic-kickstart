@@ -45,7 +45,7 @@ categories: []
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2204.06768
+url_pdf: https://ieeexplore.ieee.org/document/9833622
 url_code: https://github.com/UVA-DSA/openpilot-CARLA
 url_poster:
 url_project:

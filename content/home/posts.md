@@ -65,6 +65,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+* Sep 2022. Our work on design and evaluation of an [Open-Source Closed-Loop Testbed for Artificial Pancreas Systems](https://arxiv.org/abs/2208.06479) (to appear in CHASE 2022) was featured by the [Diabetes Connections with Stacey Simms](https://diabetes-connections.com/i-think-its-just-the-beginning-a-new-way-to-test-diy-pump-systems-from-uva/).
+
+* Jun 2022. I presented our paper "[Strategic Safety-Critical Attacks Against an Advanced Driver Assistance System](https://ieeexplore.ieee.org/document/9833622)" in 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2022). [video](https://www.youtube.com/watch?v=2qBX7Z1yuX4)
+
+* Jun 2022. I presented our paper "[Robustness Testing of Data and Knowledge Driven Anomaly Detection in Cyber-Physical Systems](https://ieeexplore.ieee.org/document/9833836)" in the 5th IEEE/IFIP DSN Workshop on Dependable and Secure Machine Learning (DSN-DSML). [video](https://www.youtube.com/watch?v=czi3J-EBAEo)
+
 
 * Jun 2022. I was invited to give a research report at *the 2nd IFIP Workshop on Intelligent Vehicle Dependability and Security (IVDS 2022)*.
 
@@ -76,4 +82,4 @@ subtitle = ""
 
 * Oct 2021. I was invited to give a talk at Northeastern University (Prof. Cristina Nita-Rotaru's Group).
 
-* June 2021. I presented our paper "[Data-driven design of context-aware monitors for hazard prediction in artificial pancreas systems](https://ieeexplore.ieee.org/document/9505057?denied=)" in 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2021). [video](https://www.youtube.com/watch?v=8805T04rPaw)
+* Jun 2021. I presented our paper "[Data-driven design of context-aware monitors for hazard prediction in artificial pancreas systems](https://ieeexplore.ieee.org/document/9505057?denied=)" in 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2021). [video](https://www.youtube.com/watch?v=8805T04rPaw)
