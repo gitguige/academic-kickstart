@@ -65,7 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-* Oct 2022. I was invited to give a poster presentation at *the 2022 NSF NRT Annual Meeting *.
+* Oct 2022. I was invited to give a poster presentation at *the [2022 NSF NRT Annual Meeting](https://www.cpe.vt.edu/nsfnrt2022/index.php)*.
 
 
 * Sep 2022. Our work on design and evaluation of an [Open-Source Closed-Loop Testbed for Artificial Pancreas Systems](https://arxiv.org/abs/2208.06479) (to appear in CHASE 2022) was featured by the [Diabetes Connections with Stacey Simms](https://diabetes-connections.com/i-think-its-just-the-beginning-a-new-way-to-test-diy-pump-systems-from-uva/).
