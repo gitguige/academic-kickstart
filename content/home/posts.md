@@ -65,6 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+* Oct 2022. I was invited to give a poster presentation at *the 2022 NSF NRT Annual Meeting *.
+
+
 * Sep 2022. Our work on design and evaluation of an [Open-Source Closed-Loop Testbed for Artificial Pancreas Systems](https://arxiv.org/abs/2208.06479) (to appear in CHASE 2022) was featured by the [Diabetes Connections with Stacey Simms](https://diabetes-connections.com/i-think-its-just-the-beginning-a-new-way-to-test-diy-pump-systems-from-uva/).
 
 * Jun 2022. I presented our paper "[Strategic Safety-Critical Attacks Against an Advanced Driver Assistance System](https://ieeexplore.ieee.org/document/9833622)" in 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN2022). [video](https://www.youtube.com/watch?v=2qBX7Z1yuX4)
@@ -76,7 +79,7 @@ subtitle = ""
 
 * Apr 2022. I was invited to give a speed briefing and poster presentation at *the Inaugural Commonwealth Cyber Initiative Symposium (CCI 2022)*.
 
-* Mar 2022. I was selected to give a poster presentation at *the 18th Annual University of Virginia Engineering Research Symposium (UVERS 2022)*.
+* Mar 2022. I was selected to give a poster presentation at *the 18th Annual University of Virginia Engineering Research Symposium (UVERS 2022 Finalist)*.
 
 * Oct 2021. I received the **Uva Link Lab Student Flash Talk Award**.
 
