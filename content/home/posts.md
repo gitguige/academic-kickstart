@@ -65,6 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+* Nov 2022. I presented our paper "[Design and Validation of an Open-Source Closed-Loop Testbed for Artificial Pancreas](https://arxiv.org/abs/2208.06479)" in the IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies ([CHASE 2022](https://conferences.computer.org/chase2022/)).
+
+
 * Oct 2022. I was selected to give a poster presentation at *the [Virginia Academy of Science, Engineering, and Medicine Summit (VASEM 2022)](http://www.vasem.org/2022summit/)*.
 
 * Oct 2022. I was invited to give a poster presentation at *the [2022 NSF NRT Annual Meeting](https://www.cpe.vt.edu/nsfnrt2022/index.php)*.
