@@ -22,7 +22,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "to appear in the AAAI's Workshop on Artificial Intelligence Safety"
-publication_short: "The AAAI's Workshop on Artificial Intelligence Safety"
+publication_short: "to appear in the AAAI's Workshop on Artificial Intelligence Safety"
 
 abstract: "Machine Learning (ML) technologies have been increasingly adopted in Medical Cyber-Physical Systems (MCPS) to enable smart healthcare. Assuring the safety and effectiveness of learning-enabled MCPS is challenging, as such systems must account for diverse patient profiles and physiological dynamics, make predictions from noisy sensor measurements, and handle operational uncertainties (e.g., missing data or features). In this paper, we develop a safety assurance case template for learning-enabled MCPS, with an emphasis on establishing confidence in the ML-based system components. We instantiate the proposed safety assurance case template for the Artificial Pancreas Systems (APS) as a representative case study, and present a detailed analysis based on an example ML-based APS controller. Finally, we discuss open research problems of developing safety assurance cases for learning-enabled MCPS."
 
