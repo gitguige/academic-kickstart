@@ -9,10 +9,10 @@ authors:
 - Lu Feng
 - Homa Alemzadeh
 
-date: 2022-06-10T00:00:00+02:00
+date: 2023-02-13T00:00:00+02:00
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-06-10T17:07:06+02:00
+publishDate: 2022-11-10T17:07:06+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +21,7 @@ publishDate: 2022-06-10T17:07:06+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The AAAI's Workshop on Artificial Intelligence Safety"
+publication: "to appear in the AAAI's Workshop on Artificial Intelligence Safety"
 publication_short: "The AAAI's Workshop on Artificial Intelligence Safety"
 
 abstract: "Machine Learning (ML) technologies have been increasingly adopted in Medical Cyber-Physical Systems (MCPS) to enable smart healthcare. Assuring the safety and effectiveness of learning-enabled MCPS is challenging, as such systems must account for diverse patient profiles and physiological dynamics, make predictions from noisy sensor measurements, and handle operational uncertainties (e.g., missing data or features). In this paper, we develop a safety assurance case template for learning-enabled MCPS, with an emphasis on establishing confidence in the ML-based system components. We instantiate the proposed safety assurance case template for the Artificial Pancreas Systems (APS) as a representative case study, and present a detailed analysis based on an example ML-based APS controller. Finally, we discuss open research problems of developing safety assurance cases for learning-enabled MCPS."
