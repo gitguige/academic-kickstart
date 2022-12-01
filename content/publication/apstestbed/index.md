@@ -20,8 +20,8 @@ publishDate: 2022-06-10T17:07:06+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "to appear in IEEE/ACM international conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)"
-publication_short: "to appear in IEEE/ACM International Conference on CHASE"
+publication: "in IEEE/ACM international conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)"
+publication_short: "in IEEE/ACM International Conference on CHASE"
 
 abstract: "The development of a fully autonomous artificial pancreas system (APS) to independently regulate the glucose levels of a patient with Type 1 diabetes has been a long-standing goal of diabetes research. A significant barrier to progress is the difficulty of testing new control algorithms and safety features, since clinical trials are time- and resource-intensive. To facilitate ease of validation, we propose an open-source APS testbed by integrating APS controllers with two state-of-the-art glucose simulators and a novel fault injection engine. The testbed is able to reproduce the blood glucose trajectories of real patients from a clinical trial conducted over six months. We evaluate the performance of two closed-loop control algorithms (OpenAPS and Basal Bolus) using the testbed and find that more advanced control algorithms are able to keep blood glucose in a safe region 93.49% and 79.46% of the time on average, compared with 66.18% of the time for the clinical trial. The fault injection engine simulates the real recalls and adverse events reported to the U.S. Food and Drug Administration (FDA) and demonstrates the resilience of the controller in hazardous conditions. We used the testbed to generate 2.5 years of synthetic data representing 20 different patient profiles with realistic adverse event scenarios, which would have been expensive and risky to collect in a clinical trial. The proposed testbed is a valid tool that can be used by the research community to demonstrate the effectiveness of different control algorithms and safety features for APS."
 
