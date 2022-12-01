@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Control Systems
 - Artificial Intelligence
-- Systems Security
 - Formal Methods
+- Systems Security
+- Control Systems
 
 education:
   courses:
