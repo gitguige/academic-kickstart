@@ -10,7 +10,7 @@ authors:
 - Homa Alemzadeh
 - Evgenia Smirni 
 
-date: 2022-12-07T00:00:00+02:00
+date: 2023-03-07T00:00:00+02:00
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-12-07T00:00:00+02:00
@@ -22,8 +22,8 @@ publishDate: 2022-12-07T00:00:00+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "submitted to the 51rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN'23)"
-publication_short: "submitted to the 51rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN'23)"
+publication: "submitted to the 51rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)"
+publication_short: "submitted to the 51rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)"
 
 abstract: "Self-driving technology has become increasingly advanced over the past decade, largely due to the rapid development of machine learning and especially deep neural networks (DNNs). When deployed in a safety-critical use case such as autonomous driving, even small deviations from the ideal output can result in catastrophic consequences. In this paper, we evaluate the effects of transient faults in DNNs embedded in two autonomous vehicle (AV) environments: one with L2 autonomy (semi-autonomous) and one with L4 autonomy (full autonomy). We use simulations of autonomous driving systems built around the DNNs to understand how a vehicle in the real world would be affected by transient faults. We perform characterization to identify how strategically injected faults can affect the road behavior of AVs. Our strategic fault injection can identify many corner cases that dramatically affect AV safety and we illustrate how L4 AVs are more susceptible to faults than L2 AVs."
 
