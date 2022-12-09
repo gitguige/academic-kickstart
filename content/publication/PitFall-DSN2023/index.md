@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Data-driven Design of Context-aware Monitors for Hazard Prediction in Artificial Pancreas Systems"
+title: "Pitfalls of Deep Neural Networks in Automotive Environments"
 authors: 
 - Anna Schmedding
 - Philip Schowitz

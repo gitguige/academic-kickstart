@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Data-driven Design of Context-aware Monitors for Hazard Prediction in Artificial Pancreas Systems"
+title: "KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Cyber-Physical Systems"
 authors: 
 - Xugui Zhou
 - Maxfield Kouzel
