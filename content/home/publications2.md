@@ -70,7 +70,7 @@ subtitle = ""
 
 <!-- ● **Xugui Zhou**, Bulbul Ahmed, James H. Aylor, Philip Asare, Homa Alemzadeh, Data-driven design of context-aware monitors for hazard prediction in artificial pancreas systems, in 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2021. [Acceptance rate: 16.3%] -->
 
-● KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Cyber-Physical Systems.
+● KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Cyber-Physical Systems.  
   **Xugui Zhou**, Maxfield Kouzel, Chloe Smith, Homa Alemzadeh.  
   submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023.
 
