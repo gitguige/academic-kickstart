@@ -19,10 +19,10 @@
   url = "#patents"
   weight = 30
 
-[[main]]
-  name = "Recent Work"
-  url = "#publications"
-  weight = 35
+#[[main]]
+#  name = "Recent Work"
+#  url = "#publications"
+#  weight = 35
 
 [[main]]
   name = "Publications"
