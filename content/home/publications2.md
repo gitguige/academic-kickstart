@@ -90,19 +90,19 @@ subtitle = ""
 
 \[**Publications Before 2019:**\]
 
-● H. Niu, F. Zang, **X. Zhou**, DMA-based Design and Implementation of High Speed UART Communication, Process Automation Instrumentation, 2018
+● H. Niu, F. Zang, **X. Zhou**, "DMA-based Design and Implementation of High Speed UART Communication," *Process Automation Instrumentation*, 2018.
 
-● **X. Zhou**, F. Zha, The Design and Application of CAN/RS232 Conversion Board Based on STM32F103 Chip, Industrial Control Computer, 2014
+● **X. Zhou**, F. Zha, "The Design and Application of CAN/RS232 Conversion Board Based on STM32F103 Chip," *Industrial Control Computer*, 2014.
 
-● **X. Zhou**, S. Zhang, Y. Li, F. Zha, Development and Application of TCP/IP Communication Test Tool, Industrial Control Computer, 2014
+● **X. Zhou**, S. Zhang, Y. Li, F. Zha, "Development and Application of TCP/IP Communication Test Tool," *Industrial Control Computer*, 2014.
 
-● **X. Zhou**, S. Zhang, Y. Li, F. Zha, Portable Ethernet Protocol Stack Design in DCS Master Station, Programmable Controller & Factory Automation, 2014
+● **X. Zhou**, S. Zhang, Y. Li, F. Zha, "Portable Ethernet Protocol Stack Design in DCS Master Station," *Programmable Controller & Factory Automation*, 2014.
 
-● S. Zhang, **X. Zhou**, Y. Li, Implementation of Modbus Protocol Based on ARM, Programmable Controller & Factory Automation, 2014
+● S. Zhang, **X. Zhou**, Y. Li, "Implementation of Modbus Protocol Based on ARM," *Programmable Controller & Factory Automation*, 2014.
 
-● Y. Li, Z. Li, S. Zhang, **X. Zhou**, 71M6543G based Design of Three-phase Smart Instrument, Industrial Control Computer, 2014
+● Y. Li, Z. Li, S. Zhang, **X. Zhou**, "71M6543G based Design of Three-phase Smart Instrument," *Industrial Control Computer*, 2014.
 
-● S. Zhang, Y. Li, **X. Zhou**, MODBUS-based Design of Intelligent Power Instrument for Fire Monitoring in Industry, Industrial Control Computer, 2014
+● S. Zhang, Y. Li, **X. Zhou**, "MODBUS-based Design of Intelligent Power Instrument for Fire Monitoring in Industry," *Industrial Control Computer*, 2014.
 
 <!-- [1] X. Zhou, The Development of Intelligent Household Ventilator Based on Remote Digital Transmission
 Technology, Shandong University, 2015
