@@ -70,7 +70,19 @@ subtitle = ""
 
 <!-- ● **Xugui Zhou**, Bulbul Ahmed, James H. Aylor, Philip Asare, Homa Alemzadeh, Data-driven design of context-aware monitors for hazard prediction in artificial pancreas systems, in 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2021. [Acceptance rate: 16.3%] -->
 
-●   **Xugui Zhou**, Maxfield Kouzel, Chloe Smith, Homa Alemzadeh. KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Cyber-Physical Systems. submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023.
+●   **Xugui Zhou**, Maxfield Kouzel, Chloe Smith, Homa Alemzadeh. KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Cyber-Physical Systems. submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023. 
+
+●   Anna Schmedding, Philip Schowitz, **Xugui Zhou**, Lishan Yang, Homa Alemzadeh, Evgenia Smirni. Pitfalls of Deep Neural Networks in Automotive Environments. submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023.
+
+●   Maryam Bagheri, Josephine Lamp, **Xugui Zhou**, Lu Feng, Homa Alemzadeh . Towards Developing Safety Assurance Cases for Learning-Enabled Medical Cyber-Physical Systems. to appear in the AAAI’s Workshop on Artificial Intelligence Safety (AAAI-W), 2023. [pdf](https://arxiv.org/pdf/2211.15413.pdf)
+
+●   **Xugui Zhou**, Maxfield Kouzel, Haotian Ren, Homa Alemzadeh . Design and Validation of an Open-Source Closed-Loop Testbed for Artificial Pancreas Systems. in IEEE/ACM International Conference on CHASE, 2022. [pdf](https://arxiv.org/abs/2208.06479) [code](https://github.com/UVA-DSA/APS_TestBed)
+
+●   **Xugui Zhou**, Maxfield Kouzel, Homa Alemzadeh . Robustness Testing of Data and Knowledge Driven Anomaly Detection in Cyber-Physical Systems. in the 5th IEEE/IFIP DSN Workshop on Dependable and Secure Machine Learning (DSN-DSML), 2022.
+
+●   **Xugui Zhou**, Anna Schmedding, Haotian Ren, Lishan Yang, Philip Schowitz, Evgenia Smirni, Homa Alemzadeh, Strategic Safety-Critical Attacks Against an Advanced Driver Assistance System, in the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2022
+
+
 
 \[**Publications Before 2019:**\]
 
