@@ -70,21 +70,21 @@ subtitle = ""
 
 <!-- ● **X. Zhou**, B. Ahmed, J. H. Aylor, P. Asare, H. Alemzadeh, Data-driven design of context-aware monitors for hazard prediction in artificial pancreas systems, in 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2021. [Acceptance rate: 16.3%] -->
 
-●   **X. Zhou**, M. Kouzel, C. Smith, H. Alemzadeh. KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Cyber-Physical Systems. submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023. 
+●   **X. Zhou**, M. Kouzel, C. Smith, H. Alemzadeh, "KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Cyber-Physical Systems," submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023. 
 
-●   A. Schmedding, P. Schowitz, **X. Zhou**, L. Yang, H. Alemzadeh, E. Smirni. Pitfalls of Deep Neural Networks in Automotive Environments. submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023.
+●   A. Schmedding, P. Schowitz, **X. Zhou**, L. Yang, H. Alemzadeh, E. Smirni, "Pitfalls of Deep Neural Networks in Automotive Environments," submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023.
 
-●   **X. Zhou**,  B. Ahmed, J. H. Aylor, P. Asare, H. Alemzadeh, Knowledge and Data Driven Synthesis of Runtime Monitors for Cyber-Physical Systems, 2nd revision under review for the IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.
+●   **X. Zhou**,  B. Ahmed, J. H. Aylor, P. Asare, H. Alemzadeh, "Knowledge and Data Driven Synthesis of Runtime Monitors for Cyber-Physical Systems," 2nd revision under review for *the IEEE Transactions on Dependable and Secure Computing (TDSC)*, 2023.
 
-●   M. Bagheri, J. Lamp, **X. Zhou**, L. F., H. Alemzadeh . Towards Developing Safety Assurance Cases for Learning-Enabled Medical Cyber-Physical Systems. to appear in the AAAI’s Workshop on Artificial Intelligence Safety (AAAI-W), 2023. [[pdf](https://arxiv.org/pdf/2211.15413.pdf)]
+●   M. Bagheri, J. Lamp, **X. Zhou**, L. F., H. Alemzadeh, "Towards Developing Safety Assurance Cases for Learning-Enabled Medical Cyber-Physical Systems," to appear in the *AAAI’s Workshop on Artificial Intelligence Safety (AAAI-W)*, 2023. [[pdf](https://arxiv.org/pdf/2211.15413.pdf)]
 
-●   **X. Zhou**, M. Kouzel, H. Ren, H. Alemzadeh . Design and Validation of an Open-Source Closed-Loop Testbed for Artificial Pancreas Systems. in IEEE/ACM International Conference on CHASE, 2022. [[pdf](https://arxiv.org/abs/2208.06479)] [[code](https://github.com/UVA-DSA/APS_TestBed)]
+●   **X. Zhou**, M. Kouzel, H. Ren, H. Alemzadeh, "Design and Validation of an Open-Source Closed-Loop Testbed for Artificial Pancreas Systems," in *IEEE/ACM International Conference on CHASE*, 2022. [[pdf](https://arxiv.org/abs/2208.06479)] [[code](https://github.com/UVA-DSA/APS_TestBed)]
 
-●   **X. Zhou**, M. Kouzel, H. Alemzadeh . Robustness Testing of Data and Knowledge Driven Anomaly Detection in Cyber-Physical Systems. in the 5th IEEE/IFIP DSN Workshop on Dependable and Secure Machine Learning (DSN-DSML), 2022. [[pdf](https://ieeexplore.ieee.org/document/9833836)] [[video](https://www.youtube.com/watch?v=czi3J-EBAEo)]
+●   **X. Zhou**, M. Kouzel, H. Alemzadeh, "Robustness Testing of Data and Knowledge Driven Anomaly Detection in Cyber-Physical Systems," in the *5th IEEE/IFIP DSN Workshop on Dependable and Secure Machine Learning (DSN-W)*, 2022. [[pdf](https://ieeexplore.ieee.org/document/9833836)] [[video](https://www.youtube.com/watch?v=czi3J-EBAEo)]
 
-●   **X. Zhou**, A. Schmedding, H. Ren, L. Yang, P. Schowitz, E. Smirni, H. Alemzadeh, Strategic Safety-Critical Attacks Against an Advanced Driver Assistance System, in the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2022. [[pdf](https://ieeexplore.ieee.org/document/9505057?denied=)] [[code](https://github.com/UVA-DSA/openpilot-CARLA)] [[video](https://www.youtube.com/watch?v=2qBX7Z1yuX4)]
+●   **X. Zhou**, A. Schmedding, H. Ren, L. Yang, P. Schowitz, E. Smirni, H. Alemzadeh, "Strategic Safety-Critical Attacks Against an Advanced Driver Assistance System," in the *52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2022. [[pdf](https://ieeexplore.ieee.org/document/9505057?denied=)] [[code](https://github.com/UVA-DSA/openpilot-CARLA)] [[video](https://www.youtube.com/watch?v=2qBX7Z1yuX4)]
 
-●   **X. Zhou**, B. Ahmed, J. H. Aylor, P. Asare, H. Alemzadeh, Data-driven Design of Context-aware Monitors for Hazard Prediction in Artificial Pancreas Systems. in the 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2021. [[pdf](https://ieeexplore.ieee.org/document/9505057?denied=)] [[code](https://github.com/UVA-DSA/ContextSafetyMonitorAPS)] [[video](https://www.youtube.com/watch?]v=8805T04rPaw)
+●   **X. Zhou**, B. Ahmed, J. H. Aylor, P. Asare, H. Alemzadeh, "Data-driven Design of Context-aware Monitors for Hazard Prediction in Artificial Pancreas Systems," in the *51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2021. [[pdf](https://ieeexplore.ieee.org/document/9505057?denied=)] [[code](https://github.com/UVA-DSA/ContextSafetyMonitorAPS)] [[video](https://www.youtube.com/watch?]v=8805T04rPaw)]
 
 
 
