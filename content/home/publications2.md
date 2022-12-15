@@ -80,9 +80,11 @@ subtitle = ""
 
 ●   **Xugui Zhou**, Maxfield Kouzel, Homa Alemzadeh . Robustness Testing of Data and Knowledge Driven Anomaly Detection in Cyber-Physical Systems. in the 5th IEEE/IFIP DSN Workshop on Dependable and Secure Machine Learning (DSN-DSML), 2022. [pdf](https://ieeexplore.ieee.org/document/9833836) [video](https://www.youtube.com/watch?v=czi3J-EBAEo)
 
-●   **Xugui Zhou**, Anna Schmedding, Haotian Ren, Lishan Yang, Philip Schowitz, Evgenia Smirni, Homa Alemzadeh, Strategic Safety-Critical Attacks Against an Advanced Driver Assistance System, in the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2022
+●   **Xugui Zhou**, Anna Schmedding, Haotian Ren, Lishan Yang, Philip Schowitz, Evgenia Smirni, Homa Alemzadeh, Strategic Safety-Critical Attacks Against an Advanced Driver Assistance System, in the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2022 [[pdf]](https://ieeexplore.ieee.org/document/9505057?denied=) [[code]](https://github.com/UVA-DSA/openpilot-CARLA) [[video]](https://www.youtube.com/watch?v=2qBX7Z1yuX4)
 
+●   **Xugui Zhou**, Bulbul Ahmed, James H. Aylor, Philip Asare, Homa Alemzadeh . Data-driven Design of Context-aware Monitors for Hazard Prediction in Artificial Pancreas Systems. in the 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2021. [[pdf]](https://ieeexplore.ieee.org/document/9505057?denied=) [[code]](https://github.com/UVA-DSA/ContextSafetyMonitorAPS) [[video]](https://www.youtube.com/watch?v=8805T04rPaw)
 
+●   **Xugui Zhou**,  Bulbul Ahmed, James H. Aylor, Philip Asare, Homa Alemzadeh, Knowledge and Data Driven Synthesis of Runtime Monitors for Cyber-Physical Systems, 2nd revision under review for the IEEE Transactions on Dependable and Secure Computing (TDSC), 2023
 
 \[**Publications Before 2019:**\]
 
