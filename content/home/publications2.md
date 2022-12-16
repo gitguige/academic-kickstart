@@ -71,7 +71,7 @@ subtitle = ""
 <!-- ● **X. Zhou**, B. Ahmed, J. H. Aylor, P. Asare, H. Alemzadeh, Data-driven design of context-aware monitors for hazard prediction in artificial pancreas systems, in 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2021. [Acceptance rate: 16.3%] -->
 
 
-$\colorbox{blue}{{\color{white}{DSN'23}}}$ **X. Zhou**, M. Kouzel, C. Smith, H. Alemzadeh, "KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Cyber-Physical Systems," submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023. 
+${\color{blue}{DSN'23}}$ **X. Zhou**, M. Kouzel, C. Smith, H. Alemzadeh, "KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Cyber-Physical Systems," submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023. 
 
 ●   A. Schmedding, P. Schowitz, **X. Zhou**, L. Yang, H. Alemzadeh, E. Smirni, "Pitfalls of Deep Neural Networks in Automotive Environments," submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023.
 
