@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -45,11 +45,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "navy"
+  # color = "navy"
   
   # Background gradient.
-  gradient_start = "DeepSkyBlue"
-  gradient_end = "SkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
@@ -71,7 +71,7 @@ subtitle = ""
 <!-- ● **X. Zhou**, B. Ahmed, J. H. Aylor, P. Asare, H. Alemzadeh, Data-driven design of context-aware monitors for hazard prediction in artificial pancreas systems, in 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2021. [Acceptance rate: 16.3%] -->
 
 
-●   **$\colorbox{blue}{{\color{white}{DSN'23}}}$** **X. Zhou**, M. Kouzel, C. Smith, H. Alemzadeh, "KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Cyber-Physical Systems," submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023. 
+$\colorbox{blue}{{\color{white}{DSN'23}}}$ **X. Zhou**, M. Kouzel, C. Smith, H. Alemzadeh, "KnowSafe: Combined Knowledge and Data Driven Hazard Mitigation in Cyber-Physical Systems," submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023. 
 
 ●   A. Schmedding, P. Schowitz, **X. Zhou**, L. Yang, H. Alemzadeh, E. Smirni, "Pitfalls of Deep Neural Networks in Automotive Environments," submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023.
 
