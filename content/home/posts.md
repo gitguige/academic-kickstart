@@ -65,6 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+* Dec 2022. I was invited to give a talk at the 1st mini [Symposium on Open-Source Diabetes Simulation](https://lt1.org/symposium/).
+
 * Nov 2022. I presented our paper "[Design and Validation of an Open-Source Closed-Loop Testbed for Artificial Pancreas](https://arxiv.org/abs/2208.06479)" in the IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies ([CHASE 2022](https://conferences.computer.org/chase2022/)).
 
 
