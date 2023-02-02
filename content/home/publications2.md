@@ -75,7 +75,7 @@ subtitle = ""
 
 <!-- ●   A. Schmedding, P. Schowitz, **X. Zhou**, L. Yang, H. Alemzadeh, E. Smirni, "Pitfalls of Deep Neural Networks in Automotive Environments," submitted to *the 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2023. -->
 
-●   **X. Zhou**,  B. Ahmed, J. H. Aylor, P. Asare, H. Alemzadeh, "Knowledge and Data Driven Synthesis of Runtime Monitors for Cyber-Physical Systems," To appear in the  *IEEE Transactions on Dependable and Secure Computing* [TDSC](https://www.computer.org/csdl/journal/tq), 2023. [[pdf](https://virginia.box.com/s/2d5hy0aw4robf0tl1hktup6qe1y6gph6)](**Impact Factor: 6.791**)
+●   **X. Zhou**,  B. Ahmed, J. H. Aylor, P. Asare, H. Alemzadeh, "Knowledge and Data Driven Synthesis of Runtime Monitors for Cyber-Physical Systems," To appear in the  *IEEE Transactions on Dependable and Secure Computing* [**TDSC (Impact Factor: 6.791)**](https://www.computer.org/csdl/journal/tq), 2023. [[pdf](https://virginia.box.com/s/2d5hy0aw4robf0tl1hktup6qe1y6gph6)]
 
 ●   M. Bagheri, J. Lamp, **X. Zhou**, L. F., H. Alemzadeh, "Towards Developing Safety Assurance Cases for Learning-Enabled Medical Cyber-Physical Systems," to appear in the *AAAI’s Workshop on Artificial Intelligence Safety (AAAI-W)*, 2023. [[pdf](https://arxiv.org/pdf/2211.15413.pdf)]
 
