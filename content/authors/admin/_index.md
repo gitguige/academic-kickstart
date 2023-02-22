@@ -72,4 +72,4 @@ I am a 5th-year Ph.D. Candidate in the ECE department at the University of Virgi
 
 My research interests are at the intersection of computer systems dependability and control system theory& engineering. I am particularly interested in engineering safer autonomous systems through resilience assessment, security validation, and artificial intelligence techniques.
 
-**I am on the academic market. I am looking for a Tenure-Track Assistant Professor position or a Postdoctoral position in departments such as of Electrical/Computer/System Engineering at reserach universities.**
+**I am on the academic market. I am looking for a Tenure-Track Assistant Professor position or a Postdoctoral position in departments such as Electrical/Computer/System Engineering at reserach universities.**
