@@ -74,4 +74,4 @@ My research interests are at the intersection of computer systems dependability 
 
 **I am on the academic job market this year!**
 
-**Please go to my new website https://xugui-zhou.github.io/news.html**
+**Please go to my new website https://xugui-zhou.github.io/index.html **
