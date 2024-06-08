@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Xugui Zhou
+# name: Xugui Zhou
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant& Ph.D. Candidate in Electrical Engineering
+# role: Research Assistant& Ph.D. Candidate in Electrical Engineering
 
 # Organizations/Affiliations
-organizations:
-- name: University of Virginia
-  url: ""
+#organizations:
+#- name: University of Virginia
+ # url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -59,7 +59,7 @@ organizations:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -74,4 +74,4 @@ user_groups:
 
 <!-- **I am on the academic job market this year!** -->
 
-**Please go to my new website https://xugui-zhou.github.io/index.html**
+**Please go to my new website https://xugui-zhou.github.io**
